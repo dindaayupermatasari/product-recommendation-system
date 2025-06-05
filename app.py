@@ -107,12 +107,12 @@ def display_product_card(col, row):
             f"""
             <div style="border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; margin: 6px; background-color: #fafafa;
                         text-align: center; box-shadow: 1px 1px 5px rgba(0,0,0,0.1); width: 100%; height: auto;
-                        display: flex; flex-direction: column; justify-content: flex-start; max-height: 320px; overflow: hidden;">
+                        display: flex; flex-direction: column; justify-content: flex-start; max-height: 350px; overflow: hidden;">
                 <div style="text-align: center;">
                     <img src="{row['gambar']}" width="130" height="130" style="object-fit: cover; border-radius: 8px;">
                 </div>
                 <div style="margin-top: 6px;">
-                    <div style="font-weight: bold; font-size: 15px; height: 38px; overflow: hidden; text-overflow: ellipsis; color: #333;">
+                    <div style="font-weight: bold; font-size: 15px; height: 55px; overflow: hidden; text-overflow: ellipsis; color: #333;">
                         {row['nama_produk']}
                     </div>
                 </div>
