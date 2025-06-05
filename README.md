@@ -2,7 +2,7 @@
 The system leverages content-based filtering principles, utilizing TF-IDF (Term Frequency-Inverse Document Frequency) and Cosine Similarity. It enables users to search for products via keywords and attribute filters (category, location, price, rating), and accurately recommends similar products based on user selections.
 
 ## Demo
-<img src="https://github.com/user-attachments/assets/2753ea3d-ad5a-454d-bd4c-634a72128448" width="800" alt="Demo Aplikasi Sistem Rekomendasi Halal">
+<img src="https://github.com/user-attachments/assets/cb115661-20d2-4d46-b30a-93cf5c08aa31" width="800" alt="Demo Aplikasi Sistem Rekomendasi Halal">
 
 ## Installation and Setup
 1. Clone the repository:
