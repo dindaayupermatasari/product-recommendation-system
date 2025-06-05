@@ -4,6 +4,8 @@ The system leverages content-based filtering principles, utilizing TF-IDF (Term 
 ## Demo
 ![Alt Text](https://github.com/user-attachments/assets/896e88aa-fdbb-4ce8-a967-2faa26bce218)
 
+
+
 ## Installation and Setup
 1. Clone the repository:
 ```bash
